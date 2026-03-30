@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Natan</h1>
 <h3 align="center">Full Stack DEV</h3>
 
-<p align="left"> <img src="[https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png](https://komarev.com/ghpvc/?username=natanhgd&label=Profile%20views&color=0e75b6&style=flat)" alt="natanhgd" /> </p>
+[[https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png](https://komarev.com/ghpvc/?username=natanhgd&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=natanhgd&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natanhgd" alt="natanhgd" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=NaTaNHGD)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
