@@ -95,9 +95,8 @@ I'm looking for opportunities to collaborate on challenging projects, contribute
 
 ## 🤝 Let's Connect
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-* Discord: YOUR_DISCORD
+* LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/natan-gomes-085776345/?skipRedirect=true)
+* Discord: natanhgd
 
 ---
 
