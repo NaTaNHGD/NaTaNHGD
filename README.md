@@ -1,19 +1,104 @@
-<h1 align="center">Hi 👋, I'm NaTaB</h1>
-<h3 align="center">A passionate Full Stack developer from Brazil</h3>
+# Hi there 👋 I'm Natan Gomes
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natanhgd&label=Profile%20views&color=0e75b6&style=flat" alt="natanhgd" /> </p>
+### Full Stack Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natanhgd" alt="natanhgd" /></a> </p>
+I'm a Full Stack Developer from Brazil with a passion for building modern web applications, scalable backend services, and interactive user experiences.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Over the years, I've worked on complex real-time systems, custom game integrations, APIs, and responsive interfaces. I enjoy solving challenging problems, writing clean code, and continuously learning new technologies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanhgd&show_icons=true&locale=en&layout=compact" alt="natanhgd" /></p>
+## 💼 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natanhgd&show_icons=true&locale=en" alt="natanhgd" /></p>
+* 💻 Full Stack Developer
+* ⚡ Strong programming logic and problem-solving skills
+* 🎮 Experience building real-time applications and game integrations
+* 🌐 Passionate about modern web development
+* 📚 Always learning and improving
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natanhgd&" alt="natanhgd" /></p>
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+* JavaScript
+* Lua
+* SQL
+* Java *(Currently learning)*
+
+### Frontend
+
+* React
+* SolidJS
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+
+### Databases
+
+* MySQL
+* SQLite
+
+### Tools & Workflow
+
+* Git
+* GitHub
+* Visual Studio Code
+* Postman
+* Figma
+
+---
+
+## 🚀 What I Enjoy Building
+
+* Full Stack Applications
+* REST APIs
+* Dashboard Systems
+* Modern User Interfaces
+* Real-time Applications
+* Discord Bots
+* Game Integrations
+* Performance-focused Solutions
+
+---
+
+## 🌱 Currently Learning
+
+* TypeScript
+* Java
+* Software Architecture
+* Design Patterns
+* Performance Optimization
+
+---
+
+## 💡 Philosophy
+
+I believe good software is more than just working code.
+
+I enjoy designing systems that are scalable, maintainable, and easy to understand while keeping the user experience as clean and intuitive as possible.
+
+---
+
+## 📈 Goals
+
+I'm looking for opportunities to collaborate on challenging projects, contribute to meaningful products, and continue growing as a software engineer.
+
+---
+
+## 🤝 Let's Connect
+
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+* Discord: YOUR_DISCORD
+
+---
+
+⭐ Thanks for visiting my profile!
